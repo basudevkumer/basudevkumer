@@ -46,11 +46,15 @@ const jhulon = {
 </p>
 
 ### State Management & Data Fetching
-<p>
-  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="48" height="48" />
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" alt="TanStack Query" width="48" height="48" />
-  <span style="padding: 0 8px;">React Context API</span>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Context API" width="48" height="48" title="React Context API" />
 </p>
+
+**Tools:** Redux • TanStack Query • React Context API
 
 ### Tools & Workflow
 <p>
