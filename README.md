@@ -4,7 +4,7 @@
 <!--              PREMIUM GOLD & BLACK HEADER                   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:000000,30:1a1305,60:2b2110,100:000000&height=290&section=header&text=Jhulon%20Kumar%20Ray&fontSize=56&fontColor=d4af37&fontAlignY=36&fontAlign=50&desc=MERN%20Stack%20Developer%20%E2%80%A2%20Full-Stack%20Architect%20%E2%80%A2%20API%20%26%20UI%20Craftsman&descAlignY=58&descSize=16&descFontColor=f5e7b8&animation=scaleIn&stroke=d4af37&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:000000,30:1a1305,60:2b2110,100:000000&height=290&section=header&text=Jhulon%20Kumar%20Ray&fontSize=56&fontColor=d4af37&fontAlignY=36&fontAlign=50&desc=MERN%20Stack%20Developer%20%E2%80%A2%20Full-Stack%20Architect%20%E2%80%A2%20API%20and%20UI%20Craftsman&descAlignY=58&descSize=16&descFontColor=f5e7b8&animation=scaleIn&stroke=d4af37&strokeWidth=1" />
 
 <br/>
 
